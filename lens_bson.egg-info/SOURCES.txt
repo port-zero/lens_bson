@@ -1,7 +1,0 @@
-setup.py
-lens_bson/__init__.py
-lens_bson.egg-info/PKG-INFO
-lens_bson.egg-info/SOURCES.txt
-lens_bson.egg-info/dependency_links.txt
-lens_bson.egg-info/requires.txt
-lens_bson.egg-info/top_level.txt
