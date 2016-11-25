@@ -1,6 +1,8 @@
 # lens\_bson
 
-A [lens](https://github.com/port-zero/lens) plugin for bson.
+A [lens](https://github.com/port-zero/lens) plugin for [bson](http://bsonspec.org/).
+
+It understands bson, but pretty prints json.
 
 ## Installation
 
