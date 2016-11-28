@@ -6,18 +6,8 @@ It understands bson, but pretty prints json.
 
 ## Installation
 
-Once it is published on PyPI:
-
 ```
 pip install lens-bson
-```
-
-In the meantime:
-
-```
-git clone https://github.com/port-zero/lens_bson
-cd lens_bson
-python setup.py install
 ```
 
 ## Usage
