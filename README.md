@@ -7,7 +7,7 @@ It understands bson, but pretty prints json.
 ## Installation
 
 ```
-pip install lens-bson
+pip install lens_bson
 ```
 
 ## Usage
